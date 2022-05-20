@@ -1,4 +1,7 @@
 # Animated-Finger-Spelling-System
+### User Interface
+![UI (1)](https://user-images.githubusercontent.com/47204969/169529867-cbd68855-caff-436d-9407-c9553890fc6c.png)
+
 Sign language is the major communication medium of the hearing
 impaired and aurally impaired community. In general , a sign gesture
 refers to a word or a phrase in a speech language and also known as
@@ -22,9 +25,5 @@ A 3D human model character created using Makehuman and Blender
 based indic sign interpreter system is achieved by creating a phonetic
 English-based 3D human animation system made with Blender and
 Unity animation software.
-
-### User Interface
-![UI (1)](https://user-images.githubusercontent.com/47204969/169529867-cbd68855-caff-436d-9407-c9553890fc6c.png)
-
 
 ![workflow](https://user-images.githubusercontent.com/47204969/169529535-c758f198-0ced-4d67-bdb4-c3b60863c074.png)
