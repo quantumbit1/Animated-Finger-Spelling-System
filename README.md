@@ -9,7 +9,9 @@ vey words that do not have a conversational sign, such as a name of
 person and places, using a character by character technique. For this
 we have used Indic Natural Sign Language Processing Library which
 in total 10 indic language.
-This project aims to deal with creating an animated nger spelling
+
+
+This project aims to deal with creating an animated finger spelling
 system for Indic Sign Language which will ultimately reduce the cost
 of interpretation and make the sign language easy and interactive.It
 also aims to include many major non indic language into phonetic En-
