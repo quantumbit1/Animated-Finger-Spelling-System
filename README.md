@@ -22,3 +22,5 @@ A 3D human model character created using Makehuman and Blender
 based indic sign interpreter system is achieved by creating a phonetic
 English-based 3D human animation system made with Blender and
 Unity animation software.
+
+![alt text](https://github.com/[quantumbit1]/[Animated-Finger-Spelling-System]/blob/[branch]/image.jpg?raw=true)
