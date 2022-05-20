@@ -23,3 +23,4 @@ based indic sign interpreter system is achieved by creating a phonetic
 English-based 3D human animation system made with Blender and
 Unity animation software.
 
+![workflow](https://user-images.githubusercontent.com/47204969/169529535-c758f198-0ced-4d67-bdb4-c3b60863c074.png)
