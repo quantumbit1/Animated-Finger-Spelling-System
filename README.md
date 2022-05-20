@@ -1,8 +1,8 @@
 # Animated-Finger-Spelling-System
-#Sign language is the major communication medium of the hearing
+Sign language is the major communication medium of the hearing
 impaired and aurally impaired community. In general , a sign gesture
 refers to a word or a phrase in a speech language and also known as
-conversational sign. A ngerspelling sign is a special sign intended to
+conversational sign. A fingerspelling sign is a special sign intended to
 show a character at a time that matches a character in alphabet of a
 given language. This enables the hearing impaired community to con-
 vey words that do not have a conversational sign, such as a name of
