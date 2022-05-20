@@ -16,6 +16,8 @@ system for Indic Sign Language which will ultimately reduce the cost
 of interpretation and make the sign language easy and interactive.It
 also aims to include many major non indic language into phonetic En-
 glish in order to be acceptable at all places and scenarios.
+
+
 A 3D human model character created using Makehuman and Blender
 based indic sign interpreter system is achieved by creating a phonetic
 English-based 3D human animation system made with Blender and
